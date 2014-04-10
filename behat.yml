@@ -8,4 +8,4 @@ jenkins:
    formatter:
        name: pretty,junit,html
        parameters:
-           output_path: ,xml
+           output_path: null,xml/junit,html/behat_report.html
